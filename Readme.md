@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Марина Лапухина ))](https://up.htmlacademy.ru/htmlcss/37/user/2333407).
-* Наставник: `Артём Картавый`.
+* Студент: [Марина Лапухина](https://up.htmlacademy.ru/htmlcss/37/user/2333407).
+* Наставник: `Артём Картавый`(https://htmlacademy.ru/profile/artem_k).
 
 ---
 
